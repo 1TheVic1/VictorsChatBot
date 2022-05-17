@@ -1,0 +1,31 @@
+{"intents" : [
+{
+    "tag": "greetings",
+    "patterns": ["hello" , "hey" , "hi" , "good day" , "what's up" , "awe"],
+    "responses": ["Hello , What can I help you with today ?"]
+},
+
+{
+    "tag": "goodbye",
+    "patterns": ["cheers" , "bye" , "cya" , "see you" , "chow" ],
+    "responses": ["Good bye, Hope to see you again soon"]
+},
+
+{
+    "tag": "name",
+    "patterns": ["hello" , "hey" , "hi" , "good day" , "what's up" , "awe"],
+    "responses": ["Hello , What can I help you with today ?"]
+},
+
+{
+    "tag": "age",
+    "patterns": ["hello" , "hey" , "hi" , "good day" , "what's up" , "awe"],
+    "responses": ["Hello , What can I help you with today ?"]
+},
+
+{
+    "tag": "perpouse",
+    "patterns": ["hello" , "hey" , "hi" , "good day" , "what's up" , "awe"],
+    "responses": ["Hello , What can I help you with today ?"]
+}
+]}
