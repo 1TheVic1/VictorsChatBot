@@ -1,0 +1,7 @@
+Chat bot 
+
+||json||
+greetings 
+farewell 
+age 
+name 
